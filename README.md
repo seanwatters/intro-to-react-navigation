@@ -1,10 +1,8 @@
+# Intro to React Navigation
+
 ![header](https://miro.medium.com/fit/c/1400/420/1*0IHw8rky-Z8A9tUiRysCsA.png)
 
 <p align=center>Photo by Alexander Andrews on Unsplash</p>
-
-# Intro to React Navigation
-
-The full repository for the [Intro To React Navigation](https://medium.com/swlh/intro-to-react-navigation-1d8957fedfd1) blog post. 
 
 ## File Structure
 
@@ -28,3 +26,4 @@ Updated/new files are included in the tree below; all other files were generated
 |- App.js
 |- app.json
 ```
+**The full repository for the [Intro To React Navigation](https://medium.com/swlh/intro-to-react-navigation-1d8957fedfd1) blog post.** 
