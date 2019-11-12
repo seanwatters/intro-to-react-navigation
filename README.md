@@ -4,7 +4,7 @@
 
 # Intro to React Navigation
 
-The full repository for Intro To React Navigation blog post. 
+The full repository for the [Intro To React Navigation](https://medium.com/swlh/intro-to-react-navigation-1d8957fedfd1) blog post. 
 
 ## File Structure
 
