@@ -1,4 +1,4 @@
-# Intro to React Navigation
+# React Native - Intro to React Navigation
 
 <b style="margin-left: 20px">Published in <a href="https://medium.com/swlh">The Startup</a></b>
 
