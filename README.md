@@ -1,5 +1,7 @@
 # Intro to React Navigation
 
+<b style="margin-left: 20px">Published in <a href="https://medium.com/swlh">The Startup</a></b>
+
 ![header](https://miro.medium.com/fit/c/1400/420/1*0IHw8rky-Z8A9tUiRysCsA.png)
 
 <p align=center>Photo by Alexander Andrews on Unsplash</p>
