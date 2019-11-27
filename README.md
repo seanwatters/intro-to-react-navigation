@@ -1,6 +1,6 @@
 # React Native - Intro to React Navigation
 
-<b>Published in <a href="https://medium.com/swlh">The Startup</a></b>
+<b>Published in <a href="https://medium.com/swlh/intro-to-react-navigation-1d8957fedfd1">The Startup</a></b>
 
 ![header](https://miro.medium.com/fit/c/1400/420/1*0IHw8rky-Z8A9tUiRysCsA.png)
 
